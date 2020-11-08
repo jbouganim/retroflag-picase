@@ -34,4 +34,4 @@ Example for Raspbian:
 2. Make sure keyboard connected.
 3. In the terminal, type the one-line command below(Case sensitive):
 
-wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/raspbian_install.sh" | sudo bash
+wget -O - "https://raw.githubusercontent.com/jbouganim/retroflag-picase/master/raspbian_install.sh" | sudo bash
